@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    border: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: green;
+}
+h1 {
+    display: block;
+    font-size: 60px;
+    width: auto;
+    height: 300px;
+    margin-top: auto;
+    margin-bottom: 0;
+    background-image: url("https://www.astrosage.com/2021/images/scorpio-horoscope-2021.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 170px;
+    padding-bottom: 95px;
+    padding-left: 100px;
+    font-weight: bolder;
+    color:red;
+    text-align: center;
+}
+h2 {
+    font-weight: bold;
+    color: purple;
+    display: block;
+    text-align: center;
+    background-color: lightgreen;
+    padding: 20px 20px;
+}
+.headshot{
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin-left: 40%;
+}
+p{
+    text-align: left;
+    margin-left: 35%;
+    margin-right: 30%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.look{
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin-left: 40%;
+}
+.head{
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin-left: 40%;
+
+}
+.link{
+    color: black;
+    margin-left: 42%;
+}
+h4{
+    color: black;
+
+
+}
+.container{
+    display: inline-flex;
+    height: 200px;
+    width: 150px;
+    margin-left: 200px;
+    padding: 0px;
+    margin-right: 0px;
+    box-sizing: border-box;    
+}
+.container2{
+    display: inline-flex;
+    height: 200px;
+    width: 150px;
+    margin-left: 200px;
+    margin-top: 20px;
+    padding: 0px;
+    margin-right: 0px;
+    box-sizing: border-box;
+}
+footer{
+    display: block;
+    height: 20px;
+    background-color: purple;
+}
+h5{
+    text-align: right;
+    
+}
+.start{
+    margin-left: 39%;
+}
+    
+
+
+
+
+
